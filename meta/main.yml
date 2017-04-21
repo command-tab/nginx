@@ -1,0 +1,7 @@
+---
+galaxy_info:
+  description: An Ansible Galaxy role to demonstrate a possible ansible-galaxy bug.
+  company: command-tab
+  license: MIT
+  min_ansible_version: 1.8
+dependencies: []
